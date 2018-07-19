@@ -1,0 +1,1 @@
+This is sorta Brittany’s first git project!
